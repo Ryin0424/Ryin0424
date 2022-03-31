@@ -23,7 +23,7 @@ I believe coding is one of the simple ways to make the world better.I will try m
 ### Back-end
 > - Node.js
 > - Firebase (web8, web9)
-> - Hreoku
+> - Heroku
 
 
 ## ⚡ Github Top Langs (JS)
