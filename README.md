@@ -9,7 +9,7 @@ I believe coding is one of the simple ways to make the world better.I will try m
 ## 📙 That I know and used
 
 ### Front-end
->  - Vue, vue-route
+>  - Vue, vue-router
 >  - Vue with Laravel Blade php
 >  - Vue3 Composition API
 >  - axios, fetch API, async await
