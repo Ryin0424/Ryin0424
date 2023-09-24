@@ -1,26 +1,29 @@
 # Hello! <img src="https://i.imgur.com/N573qVR.gif" width="50px">
 
-Hi, I am R-Yin(阿陰)! I am a front-end developer,and I try to learn more about web technologies and skills every day.
+Hi, I am R-Yin(阿陰)! I am a front-end developer in Taiwan,and I have over 5 years software development experience.
 
-I believe coding is one of the simple ways to make the world better.I will try my best if I can do it.
+The main skill I currently used is Vue.js with TypeScript. 
+
+I believe coding is one of the simplest ways to make the world better, and I will keep working. Let's encourage each other!
 
 📧 Email: a30729522@gmail.com
 
-## 📙 That I know and used
+## 📙 Skills that I know and used
 
 ### Front-end
->  - Vue, vue-router
->  - Vue with Laravel Blade php
->  - Vue3 Composition API
->  - axios, fetch API, async await
->  - JavaScript ES6+
->  - Webpack
->  - jQuery
->  - CSS, SCSS, SASS
->  - AdminLte, Bootstrap4
->  - Git
+> - Vue, vue-router, Vuex(Pinia)
+> - Vue3 Composition API
+> - TypeScript
+> - PWA
+> - axios, fetch API, async await
+> - JavaScript ES6+
+> - WebAuth
+> - Webpack, Vite
+> - CSS, SCSS, SASS
+> - Element-UI, Vant, AdminLte, Bootstrap4 
+> - Git
 
-### Back-end
+### Others
 > - Node.js
 > - Firebase (web8, web9)
 > - Heroku
