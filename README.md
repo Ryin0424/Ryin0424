@@ -14,19 +14,27 @@ I believe coding is one of the simplest ways to make the world better, and I wil
 > - Vue, vue-router, Vuex(Pinia)
 > - Vue3 Composition API
 > - TypeScript
-> - PWA
+> - JavaScript(ES6+)
+> - D3.js, Chart.js
+> - i18n plugins
+> - WebSocket
 > - axios, fetch API, async await
-> - JavaScript ES6+
-> - WebAuth
+> - PWA
+> - WebAuth API
 > - Webpack, Vite
-> - CSS, SCSS, SASS
+> - CSS3(scss, sass)
 > - Element-UI, Vant, AdminLte, Bootstrap4 
+
+### Version control and tools
 > - Git
+> - Sourcetree
 
 ### Others
 > - Node.js
+> - Puppeteer
 > - Firebase (web8, web9)
 > - Heroku
+> - Jenkins
 
 
 ## ⚡ Github Top Langs (JS)
